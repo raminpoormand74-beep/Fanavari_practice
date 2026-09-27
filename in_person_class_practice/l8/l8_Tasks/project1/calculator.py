@@ -9,3 +9,5 @@ def multiply():
 
 def divide():
     pass
+def afds():
+    pass
